@@ -1,6 +1,8 @@
 /*
 Example lesson stub
 */
+
+--tiny change for example
 SELECT   ps.PatientId,
          ps.AdmittedDate,
          ps.DischargeDate,
